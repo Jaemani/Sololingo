@@ -1,4 +1,4 @@
-# AGENTS.md instructions for /Users/jaeman/Codes/SoloLingo
+# AGENTS.md instructions for /Users/jaeman/Codes/GemmaLens
 
 <INSTRUCTIONS>
 @/Users/jaeman/.codex/RTK.md
@@ -49,7 +49,7 @@ rtk pip list            rtk pnpm install        rtk npm run <script>
 
 --- project-doc ---
 
-# Project: LinguaEdge / PaperLens Core Prototype
+# Project: GemmaLens Core Prototype
 
 Build the first technical prototype of a local-first academic language learning harness.
 
@@ -80,7 +80,7 @@ The prototype should not prioritize:
 
 Every academic or technical document can become a personalized language lesson.
 
-Translation solves the current sentence. PaperLens builds the learner's ability to read the next sentence.
+Translation solves the current sentence. GemmaLens builds the learner's ability to read the next sentence.
 
 ## Core User
 
